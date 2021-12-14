@@ -1,0 +1,13 @@
+.body-color{
+    background-color: #E9ECEF;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.link:hover{
+    color:green
+}
+
